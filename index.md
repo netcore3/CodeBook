@@ -12,8 +12,10 @@ This book has been edited for the first edition on october 2019 following the re
 
 The amazon link where you can by this book is:
 
+'''
+TODO Amazon link and Picture
+'''
 
-<TODO> Amazon link and Picture
 
 ### Edit
 You can use the [editor on GitHub](https://github.com/netcore3/CodeBook/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
